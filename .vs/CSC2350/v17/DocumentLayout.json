@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gafi\\Documents\\GitHub\\CSC2350\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gafi\\Documents\\GitHub\\CSC2350\\.gitIgnore||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitIgnore||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gafi\\Documents\\GitHub\\CSC2350\\src\\SnakeController.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\SnakeController.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gafi\\Documents\\GitHub\\CSC2350\\src\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gafi\\Documents\\GitHub\\CSC2350\\src\\Worldmodel.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Worldmodel.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gafi\\Documents\\GitHub\\CSC2350\\src\\NewFile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\NewFile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gafi\\Documents\\GitHub\\CSC2350\\src\\Snake.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Snake.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gafi\\Documents\\GitHub\\CSC2350\\src\\.g||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\.g||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitIgnore",
+              "DocumentMoniker": "C:\\Users\\Gafi\\Documents\\GitHub\\CSC2350\\.gitIgnore",
+              "RelativeDocumentMoniker": ".gitIgnore",
+              "ToolTip": "C:\\Users\\Gafi\\Documents\\GitHub\\CSC2350\\.gitIgnore",
+              "RelativeToolTip": ".gitIgnore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-08T18:04:18.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SnakeController.ts",
+              "DocumentMoniker": "C:\\Users\\Gafi\\Documents\\GitHub\\CSC2350\\src\\SnakeController.ts",
+              "RelativeDocumentMoniker": "src\\SnakeController.ts",
+              "ToolTip": "C:\\Users\\Gafi\\Documents\\GitHub\\CSC2350\\src\\SnakeController.ts",
+              "RelativeToolTip": "src\\SnakeController.ts",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-08T18:08:30.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Worldmodel.ts",
+              "DocumentMoniker": "C:\\Users\\Gafi\\Documents\\GitHub\\CSC2350\\src\\Worldmodel.ts",
+              "RelativeDocumentMoniker": "src\\Worldmodel.ts",
+              "ToolTip": "C:\\Users\\Gafi\\Documents\\GitHub\\CSC2350\\src\\Worldmodel.ts",
+              "RelativeToolTip": "src\\Worldmodel.ts",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-08T18:08:57.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewFile",
+              "DocumentMoniker": "C:\\Users\\Gafi\\Documents\\GitHub\\CSC2350\\src\\NewFile",
+              "RelativeDocumentMoniker": "src\\NewFile",
+              "ToolTip": "C:\\Users\\Gafi\\Documents\\GitHub\\CSC2350\\src\\NewFile",
+              "RelativeToolTip": "src\\NewFile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-08T18:08:00.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Snake.ts",
+              "DocumentMoniker": "C:\\Users\\Gafi\\Documents\\GitHub\\CSC2350\\src\\Snake.ts",
+              "RelativeDocumentMoniker": "src\\Snake.ts",
+              "ToolTip": "C:\\Users\\Gafi\\Documents\\GitHub\\CSC2350\\src\\Snake.ts",
+              "RelativeToolTip": "src\\Snake.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-08T18:05:37.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": ".g",
+              "DocumentMoniker": "C:\\Users\\Gafi\\Documents\\GitHub\\CSC2350\\src\\.g",
+              "RelativeDocumentMoniker": "src\\.g",
+              "ToolTip": "C:\\Users\\Gafi\\Documents\\GitHub\\CSC2350\\src\\.g",
+              "RelativeToolTip": "src\\.g",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-08T18:03:49.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.tsx",
+              "DocumentMoniker": "C:\\Users\\Gafi\\Documents\\GitHub\\CSC2350\\src\\index.tsx",
+              "RelativeDocumentMoniker": "src\\index.tsx",
+              "ToolTip": "C:\\Users\\Gafi\\Documents\\GitHub\\CSC2350\\src\\index.tsx",
+              "RelativeToolTip": "src\\index.tsx",
+              "ViewState": "AgIAAAIAAAAAAAAAAADgvwkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-08T18:01:19.757Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
